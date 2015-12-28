@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LocDVD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_dvd">ViewDVDActivity</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+
+    <string name="annee_de_sortie">"Année de sortie : %d"</string>
+    <string name="titre_du_film">Titre du film</string>
+    <string name="acteurs">Acteurs</string>
+    <string name="annee_de_sortie_libelle">Année de sortie</string>
+    <string name="resume">Résumé</string>
+    <string name="date_dernier_visionnage">Date de dernier visionnage</string>
+    <string name="date_dernier_visionnage_avec_valeur">Date de dernier visionnage : %s</string>
+    <string name="modifier_date_dernier_visionnage">Modifier la date de dernier visionnage</string>
+
+    <string name="reinitialisez">"Réinitialiser la base de données"</string>
+    <string name="infos">Informations</string>
+
+    <string-array name="drawer_Items">
+        <item>Accueil</item>
+        <item>Telecharger "Bieres"</item>
+        <item>Rechercher</item>
+    </string-array>
+
+    <string name="confirmer_reinitialisation_title">Confirmer la réinitialisation ?</string>
+    <string name="confirmer_reinitialisation_message">"Etes-vous certain de vouloir réinitialiser la base de données ?\nToutes les données seront définitivement effacées !"</string>
+    <string name="non">Non</string>
+    <string name="oui">Oui</string>
+
+    <string name="informations_message">
+        "Cette application a été réalisée par Alexandre Vardon et Sylvain Torchin dans le cadre d'un projet de l'ESIEA.
+        \n\n\n Bonne continuation !"</string>
+    <string name="fermer">Fermer</string>
+
+    <string name="x_dvd_inseres_dans_la_base">"%d DVD insérés dans la base"</string>
+    <string name="initialisation_de_la_base_de_donnees">Initialisation de la base de données</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="detail">Plus de détails</string>
+    <string name="title_activity_main2">Main2Activity</string>
+ </resources>

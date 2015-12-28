@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="mesAttributs">
+        <attr name="monAttribut1" format="boolean"/>
+        <attr name="monAttribut2" format="string"/>
+    </declare-styleable>
+</resources>
